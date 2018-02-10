@@ -1,4 +1,4 @@
-This was a project created by Giancarlo Tomasello, Ronny Diaz, Tristian Morales, and me for
+This was a project created by Giancarlo Tomasello, Ronny Diaz, Tristian Morales, and I for
 the 2018 Global Game Jam. The theme of the game jam this year was "transmission," so we 
 came up with the idea of transmitting butter onto bread. 
 
