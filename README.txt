@@ -14,4 +14,4 @@ The game is actually quite fun to play, so if you want to try it out for yoursel
 can download the executable at:
 https://globalgamejam.org/2018/games/breakfast-butter-and-beyond.
 
-The game is available on Windows and Mac OS. Have fun! 
+The game is available on Windows and macOS. Have fun! 
