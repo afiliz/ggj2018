@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce0ec47e169ff434d89b75ba86dc25b7
+timeCreated: 1517119282
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - toast: {fileID: 54762814103193422, guid: 00c6bb2622a4c9c4b98a852f3823ff8e, type: 2}
+  - spawn: {fileID: 4435329585289580, guid: 97d99498d9f554714b41998a70100668, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
